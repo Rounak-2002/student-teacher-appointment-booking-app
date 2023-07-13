@@ -1,0 +1,21 @@
+.welcome-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(82, 86, 95);
+    padding: 1em;
+}
+
+h1 {
+    color: blue;
+    font-size: 3em;
+}
+
+p {
+    align-items: end;
+    font-size: 20px;
+    /* text-align: center; */
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
